@@ -1,0 +1,3 @@
+/Users/paolooctoman/CLionProjects/CS3Aportfolio/cmake-build-debug/CMakeFiles/CS3Aportfolio.dir
+/Users/paolooctoman/CLionProjects/CS3Aportfolio/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/paolooctoman/CLionProjects/CS3Aportfolio/cmake-build-debug/CMakeFiles/rebuild_cache.dir

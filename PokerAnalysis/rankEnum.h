@@ -1,0 +1,11 @@
+//
+// Created by Paolo Octoman on 12/14/22.
+//
+
+#ifndef CS3APORTFOLIO_RANKENUM_H
+#define CS3APORTFOLIO_RANKENUM_H
+
+enum rankEnum {
+    TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, TEN, JACK, QUEEN, KING,ACE
+};
+#endif  //CS3APORTFOLIO_RANKENUM_H
